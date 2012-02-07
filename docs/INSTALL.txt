@@ -42,5 +42,5 @@ If you want to help testing, please use the development version from the Collect
     [eggcheckouts]
     recipe = zerokspot.recipe.git
     repository=git://github.com/plone/Products.TinyMCE.git
-    as_eggs = true
+    as_egg = true
 
